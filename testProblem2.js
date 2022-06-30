@@ -1,1 +1,3 @@
-const callbackProblem2 = require("../problem2");
+const testProblem = require("../problem2");
+
+console.log(testProblem());
